@@ -1,0 +1,23 @@
+{
+  "name": "tln-i18n-react",
+  "version": "1.0.0",
+  "description": "i18n-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/tln-i18n-react.git"
+  },
+  "keywords": [
+    "i18n-react",
+    "tln"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/tln-i18n-react/issues"
+  },
+  "homepage": "https://github.com/timlin1972/tln-i18n-react#readme"
+}
